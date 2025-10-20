@@ -1,0 +1,9 @@
+streamlit==1.30.0
+pyngrok==5.2.1
+langchain==0.1.153
+langchain-community==0.0.43
+sentence-transformers==2.2.2
+chromadb==0.3.34
+pypdf==4.2.0
+openai==1.44.0
+tiktoken==0.7.0
