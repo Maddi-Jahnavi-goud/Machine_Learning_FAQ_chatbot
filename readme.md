@@ -20,4 +20,9 @@ It automatically loads and processes the notes file (`MACHINE LEARNING (R17A0534
 ├── MACHINE LEARNING(R17A0534).pdf # Lecture notes (used for chatbot training)
 ├── README.md # Project documentation
 ├── requirements.txt # Dependencies list
+
 └── Machine_Learning_Chatbot_Project_Report.docx # Project report document
+
+## Streamlit app 
+1️⃣ Streamlit + OpenRouter API: The app loads your Machine Learning PDF, converts it to embeddings, and uses OpenRouter’s GPT model (via your API key) to answer questions in a conversational chat interface.
+2️⃣ Ngrok Tunnel: It starts the Streamlit app locally and exposes it to the web with Ngrok, giving a public URL to access your chatbot from anywhere.
